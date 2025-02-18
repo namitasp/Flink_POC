@@ -1,0 +1,72 @@
+[
+    {
+        "_id": {"$oid": "587579feda8b8ec5248789b4"},
+        "bioguide_id": "H001075",
+        "icpsr_list": [{"$numberInt": "41701"}],
+        "bioname": "HARRIS, Kamala Devi",
+        "born": {"$numberInt": "1964"},
+        "died": null,
+        "last_updated": {"$date": {"$numberLong": "1485957929400"}},
+        "biography": "A Senator from California; born in Oakland, Calif., October 20, 1964; B.A., Howard University, 1986; J.D., University of California, Hastings College of the Law, 1989; admitted to the California bar in 1990; deputy district attorney, Alameda County, Calif., 1990-1998; managing attorney, San Francisco District Attorney’s Office; chief of the San Francisco City Attorney’s Division on Children and Families; district attorney of San Francisco 2004-2011; attorney general of California 2011-2016; elected as a Democrat to the United States Senate in 2016 and served from January 3, 2017, until January 18, 2021, when she resigned to become Vice President; was an unsuccessful candidate for the Democratic nomination for president in 2020, but was elected Vice President of the United States on the Democratic ticket headed by Joseph R. Biden, Jr. in 2020."
+    },
+    {
+        "_id": {"$oid": "587579feda8b8ec5248789b5"},
+        "bioguide_id": "S001200",
+        "icpsr_list": [{"$numberInt": "21746"}],
+        "bioname": "SOTO, Darren Michael",
+        "born": {"$numberInt": "1978"},
+        "died": null,
+        "last_updated": {"$date": {"$numberLong": "1485957929400"}},
+        "biography": "A Representative from Florida; born in Ringwood, Passaic County, N.J., February 25, 1978; B.A., Rutgers College, New Brunswick , N.J., 2000; J.D., George Washington University, Washington, D.C., 2004; lawyer, private practice; financial analyst; member of the Florida state house of representatives, 2007-2012; member of the Florida state senate, 2012-2016; deputy minority whip, 2012-2014; elected as a Democrat to the One Hundred Fifteenth and to the three succeeding Congresses (January 3, 2017-present)."
+    },
+    {
+        "_id": {"$oid": "587579feda8b8ec5248789b6"},
+        "bioguide_id": "S001199",
+        "icpsr_list": [{"$numberInt": "21745"}],
+        "bioname": "SMUCKER, Lloyd K.",
+        "born": {"$numberInt": "1964"},
+        "died": null,
+        "last_updated": {"$date": {"$numberLong": "1485957942024"}},
+        "biography": "a Representative from Pennsylvania; born in Lancaster, Lancaster County, Pa., January 23, 1964; attended Lebanon Valley College, Annville, Pa.; attended Franklin & Marshall College, Lancaster, Pa., 1988-1991; business owner; member of the West Lampeter, Pa., planning commission, 2001-2005; member of the West Lampeter, Pa., township board of supervisors, 2005-2009; member of the Pennsylvania state senate, 2009-2016; elected as a Republican to the One Hundred Fifteenth and to the four succeeding Congresses (January 3, 2017-present)."
+    },
+    {
+        "_id": {"$oid": "587579feda8b8ec5248789b7"},
+        "bioguide_id": "R000609",
+        "icpsr_list": [{"$numberInt": "21744"}],
+        "bioname": "RUTHERFORD, John Henry",
+        "born": {"$numberInt": "1952"},
+        "died": null,
+        "last_updated": {"$date": {"$numberLong": "1485957939971"}},
+        "biography": "A Representative from Florida; born in Omaha, Douglas County, Nebr., September 2, 1952; graduated from Nathan Bedford Forrest High School, Jacksonville, Fla., 1970; attended Jacksonville Junior College, Jacksonville, Fla.; B.S., Florida State University, Tallahassee, Fla., 1974; police officer; director of corrections, city of Jacksonville, Fla., sheriff's office, 1995-2003; sheriff, city of Jacksonville, Fla., 2003-2015; elected as a Republican to the One Hundred Fifteenth and to the three succeeding Congresses (January 3, 2017-present)."
+    },
+    {
+        "_id": {"$oid": "587579feda8b8ec5248789b8"},
+        "bioguide_id": "M001200",
+        "icpsr_list": [{"$numberInt": "21736"}],
+        "bioname": "MCEACHIN, Aston Donald",
+        "born": {"$numberInt": "1961"},
+        "died": {"$numberInt": "2022"},
+        "last_updated": {"$date": {"$numberLong": "1485957931253"}},
+        "biography": "A Representative from Virginia; born in Nuremberg, Germany, October 10, 1961; graduated from St. Christopher's School, Richmond, Va., 1979; B.S., American University, Washington, D.C., 1982, J.D., University of Virginia, Charlottesville, Va., 1986; M.Div., Samuel DeWitt Proctor School of Theology at Virginia Union University, Richmond, Va., 2008; lawyer, private practice; member of the Virginia state house of delegates, 1996-2002 and 2006-2008; member of the Virginia state senate, 2008-2016; elected as a Democrat to the One Hundred Fifteenth and to the three succeeding Congresses; served until his death on November 28, 2022 (January 3, 2017-November 28, 2022), died on November 28, 2022, in Richmond, Va.; interment at Mount Calvary Cemetery, Richmond, Va."
+    },
+    {
+        "_id": {"$oid": "587579feda8b8ec5248789b9"},
+        "bioguide_id": "M001199",
+        "icpsr_list": [{"$numberInt": "21735"}],
+        "bioname": "MAST, Brian Jeffery",
+        "born": {"$numberInt": "1980"},
+        "died": null,
+        "last_updated": {"$date": {"$numberLong": "1485957929401"}},
+        "biography": "A Representative from Florida; born in Grand Rapids, Kent County, Mich., July 10, 1980; graduated from South Christian High School, Grand Rapids, Mich., 1999; attended Palm Beach Atlantic University, West Palm Beach, Fla., 2000-2002; attended American Military University, Charles Town, W.Va., 2008-2010; A.L.B., Harvard University Extension School, Cambridge, Mass., 2016; United States Army, 2000-2012; instructor, Bureau of Alcohol, Tobacco, Firearms, and Explosives; analyst, National Nuclear Security Administration, 2011-2012; explosive specialist, United States Department of Homeland Security, 2012-2015; elected as a Republican to the One Hundred Fifteenth and to the three succeeding Congresses (January 3, 2017-present)."
+    },
+    {
+        "_id": {"$oid": "587579feda8b8ec5248789ba"},
+        "bioguide_id": "M001198",
+        "icpsr_list": [{"$numberInt": "21734"}],
+        "bioname": "MARSHALL, Roger Wayne",
+        "born": {"$numberInt": "1960"},
+        "died": null,
+        "last_updated": {"$date": {"$numberLong": "1485957929401"}},
+        "biography": "A Senator and a Representative from Kansas; born in El Dorado, Butler County, Kans., August 9, 1960; graduated from El Dorado High School, El Dorado, Kans., 1978; A.S., Butler Community College, El Dorado, Kans., 1980; B.S., Kansas State University, Manhattan, Kan; M.D. University of Kansas School of Medicine, Kansas City, Kans, 1987; United States Army Reserves, 1984-1991; physician; elected as a Republican to the One Hundred Fifteenth and to the succeeding Congresses (January 3, 2017-January 3, 2021); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2020 for the term ending January 3"
+	}
+]
